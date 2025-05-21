@@ -5,6 +5,7 @@ This project is a Python-based dashboard that visualizes internet usage statisti
 ## Features
 - Interactive and user-friendly dashboard
 - Visualizes internet usage data through various charts
+- Data filtering
 - Easy to run locally using Python
 
 ## Technologies Used
@@ -18,7 +19,7 @@ This project is a Python-based dashboard that visualizes internet usage statisti
 ### Prerequisites
 Make sure you have Python installed (version 3.6 or above).
 
-### Installation
+### Installation & Running
 
 1. Clone the repository:
    ```bash
